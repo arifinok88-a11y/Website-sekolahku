@@ -118,7 +118,7 @@ const defaultData: SchoolDB = {
       category: 'Pengumuman',
       excerpt: 'Pendaftaran gelombang pertama untuk calon siswa baru kelas 1 telah resmi dibuka secara daring maupun luring.',
       content: 'SMA Negeri 1 Nanga Pinoh membuka pendaftaran peserta didik baru tahun ajaran 2026/2027. Orang tua dapat melakukan pendaftaran melalui sekretariat sekolah setiap hari kerja pukul 08.00 - 14.00 WIB dengan membawa fotokopi akta kelahiran dan kartu keluarga.',
-      image_url: 'https://drive.google.com/file/d/1bia17fRtIjHrHNqDnoueOFArInyQQ26C/view?usp=sharing',
+      image_url: 'https://drive.google.com/file/d/1-gyC7kc-Q6_pFCfZ1jFvXh1hfoNg9vgo/view?usp=sharing',
       published_date: '2026-11-02',
     },
     {
