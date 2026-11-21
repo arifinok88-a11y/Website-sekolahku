@@ -33,7 +33,7 @@ async function startServer() {
   }
 
   app.listen(PORT, '0.0.0.0', () => {
-    console.log(`Server SD Harapan Bangsa berjalan di http://localhost:${PORT}`);
+    console.log(`Server SMA Negeri 1 Nanga Pinoh berjalan di http://localhost:${PORT}`);
   });
 }
 
